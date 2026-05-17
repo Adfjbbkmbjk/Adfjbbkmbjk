@@ -10,6 +10,12 @@
     * Data Analysis using AI automation tools.
     * Rapid presentation generation using AI.
 
+* **Statistics & Excel** — Udemy
+  * *Instructor:* Robert (Bob) Steele
+  * [📄 View Official PDF Certificate](https://github.com/Adfjbbkmbjk/Adfjbbkmbjk/blob/main/Statistics_Excel.pdf)
+  * *Skills Learned:*
+    * Business Statistics and Data Analysis using Microsoft Excel.
+
 ---
 ### 🛠️ Tech Stack & Skills
 
